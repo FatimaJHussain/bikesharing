@@ -19,3 +19,6 @@ Seven visualization are added to the dashboard, as shown in the dashboard link:
 * Ride Data by Birth Year: This graphs the average duration of a bike ride, by age (birth year), in the form of area chart. 
 
 # Summary 
+Bike ride analysis is performed in detail with various visualizations, such as; trip duration by hour, gender, age and weekdays. However, two other plots can be added to make this analysis more comprehensive. These plots are added to the dashboard:
+* Subscriber by Gender:This graphs the gender breakdown by subscribers and customers.
+* Trip Duration by User Type: This graphs the average trip duration by various types of users, subscribers or customers.
